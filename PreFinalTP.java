@@ -1,5 +1,5 @@
 import java.util.*;
-// Natanauan, Carlos Benedict || Object Oriented Programming || Text Based Console Game
+// Natanauan, Carlos Benedict
 interface StoryEnemy {
     void StrHp();
     void StrDamage();
